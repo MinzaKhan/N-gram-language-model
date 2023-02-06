@@ -3,6 +3,7 @@ specified in the command line. The program will generate any number of sentences
 The user will input whether they want a unigram, bigram, or trigram model by entering the input 1, 2, or 3 in the command line.
 
 EXAMPLES:
+
 INPUT: PA2.py 2 3 alittleprincess.txt prideandprejudice.txt
 
 In this input, PA2.py is the name of the program. The first argument after that is to specify whether the user wants a unigram, bigram,
@@ -14,8 +15,11 @@ text files as they want. For this input, the text files that the program will re
 OUTPUT: 
 
 2 10 alittleprincess.txt prideandprejudice.txt
+
 BIGRAM
+
 SENTENCES:
+
 1 : yes , and it was certain sixpence and elizabeth was spared her.
 2 : in a great spirits she should have removed into insignificance.
 3 : she looked at all his tenants , and others think we were aware of his speech?
