@@ -4,13 +4,15 @@ The user will input whether they want a unigram, bigram, or trigram model by ent
 
 EXAMPLES:
 INPUT: PA2.py 2 3 alittleprincess.txt prideandprejudice.txt
-In this input, PA2.py is the name of the program. The forst argument after that is to specify whether the user wants a unigram, bigram,
+
+In this input, PA2.py is the name of the program. The first argument after that is to specify whether the user wants a unigram, bigram,
 or trigram language model. Since the value of the argument is 2, the program will generate a bigram language model. The next argument is the 
 number of sentences that the user wants the program to generate. Since this number is 3, the program will print 3 sentences as output. 
 the rest of the arguments are the names of the text files based on which the language model will be generated. The user can input as many 
 text files as they want. For this input, the text files that the program will read are alittleprincess.txt and prideandprejudice.txt
 
 OUTPUT: 
+
 2 10 alittleprincess.txt prideandprejudice.txt
 BIGRAM
 SENTENCES:
