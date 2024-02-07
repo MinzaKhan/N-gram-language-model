@@ -1,5 +1,5 @@
-This is a command line program that develops an ngram language model from any number of plain text files
-specified in the command line. The program will generate any number of sentences specified in the command line, based on the ngram model.
+This is a command line program that develops an N-gram Language Model from any number of plain text files
+specified in the command line. The program will generate any number of sentences specified in the command line, based on the N-gram model.
 The user will input whether they want a unigram, bigram, or trigram model by entering the input 1, 2, or 3 in the command line.
 
 EXAMPLES:
